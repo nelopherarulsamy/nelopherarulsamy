@@ -28,7 +28,7 @@ A security-focused solution for cryptographic attribution and immutable decrypti
 
 **Technologies:** Cryptography · Digital Signatures · Document Security
 
-### 🛠️ SHINTECH
+ ### 🛠️ [SHINTECH — QR-Based Complaint & Warranty Management](https://github.com/nelopherarulsamy/SHINTECH)
 
 A technology project focused on building practical digital solutions. Explore the repository for implementation details and features.
 
